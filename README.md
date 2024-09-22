@@ -23,7 +23,7 @@ Cara Clothing is a project that aims to deliver a seamless online shopping exper
 
 To explore the frontend locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Sarveshmehta1504/Clothing-Ecommerce-Website-Frontend.git`
+1. Clone the repository: `git clone https://github.com/bhavyarajsinhparmar/Clothing-Ecommerce-Website-Frontend.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Contribution Guidelines
